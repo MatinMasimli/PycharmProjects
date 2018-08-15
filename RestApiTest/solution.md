@@ -1,4 +1,4 @@
-On the interview.py file there are siz methods among them four method headers were already given
+On the practice.py file there are six methods among them four method headers were already given
 on the reference.py file.
 
 On the generate_password method, basically I just created passwords based on the given complexity
